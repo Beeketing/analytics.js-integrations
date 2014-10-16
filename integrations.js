@@ -40,6 +40,7 @@ module.exports = [
   require('./lib/hittail'),
   require('./lib/hubspot'),
   require('./lib/improvely'),
+  require('./lib/indicative'),
   require('./lib/insidevault'),
   require('./lib/inspectlet'),
   require('./lib/intercom'),
